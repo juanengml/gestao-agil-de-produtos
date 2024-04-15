@@ -31,5 +31,3 @@ O OinkGuardian é uma plataforma desenvolvida para suinocultores, com o objetivo
    - Recebimento de notificações sobre falhas em carregamentos e conclusão de carregamentos para tomada de medidas rápidas.
 
 
-
-![]("wireframes/OinkGuardian.pdf")
