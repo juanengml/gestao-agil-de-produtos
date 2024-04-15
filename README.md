@@ -1,5 +1,11 @@
 # OinkGuardian
 
+
+
+<p align="center">
+  <img src="./wireframes/logo.png" alt="Logo do Green Dish" width="200">
+</p>
+
 O OinkGuardian é uma plataforma desenvolvida para suinocultores, com o objetivo de otimizar a gestão das operações diárias, proporcionando maior controle e eficiência na criação de suínos. Através de tecnologias como IoT e inteligência artificial, o OinkGuardian oferece recursos avançados para monitoramento, análise e notificação, contribuindo para o aumento da produtividade e a redução de custos na suinocultura.
 
 ## Funcionalidades Principais
